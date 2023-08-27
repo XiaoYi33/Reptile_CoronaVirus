@@ -1,0 +1,20 @@
+world
+国家		provinceName
+累计病例		confirmedCount
+现存病例		currentConfirmedCount
+治愈病例		curedCount
+死亡病例		deadCount
+死亡率		deadRate
+死亡率排名	deadRateRank
+累计确诊排名	confirmedCountRank
+累计死亡排名	deadCountRank
+
+china
+省份		provinceShortName
+城市		cityName
+累计病例		confirmedCount
+现存病例		currentConfirmedCount
+治愈病例		curedCount
+死亡病例		deadCount
+疑似病例		suspectedCount
+高风险地区	highDangerCount
